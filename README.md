@@ -24,8 +24,6 @@ GameManager             :遊戲主要邏輯
 - 可以決定射擊單發、散射、射速
 - 機率為單機版本RTP:0.98
 ```
-遊戲連結:
-https://storage.googleapis.com/ws-cocos-web-pdd5-slot-data/FishDemo/01/web-mobile/index.html
 ```
 ## FishPath
 ### Cocos creator 魚群路徑設定
