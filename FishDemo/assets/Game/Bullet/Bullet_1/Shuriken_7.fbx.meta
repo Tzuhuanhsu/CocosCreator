@@ -1,0 +1,116 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e4d6acb7-ecc8-474b-9adb-38059d273cc7",
+  "files": [],
+  "subMetas": {
+    "57978": {
+      "importer": "gltf-material",
+      "uuid": "e4d6acb7-ecc8-474b-9adb-38059d273cc7@57978",
+      "displayName": "",
+      "id": "57978",
+      "name": "material_2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4384": {
+      "importer": "gltf-mesh",
+      "uuid": "e4d6acb7-ecc8-474b-9adb-38059d273cc7@b4384",
+      "displayName": "",
+      "id": "b4384",
+      "name": "Shuriken_7.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1428
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "351c5": {
+      "importer": "gltf-material",
+      "uuid": "e4d6acb7-ecc8-474b-9adb-38059d273cc7@351c5",
+      "displayName": "",
+      "id": "351c5",
+      "name": "material_1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c81c": {
+      "importer": "gltf-scene",
+      "uuid": "e4d6acb7-ecc8-474b-9adb-38059d273cc7@9c81c",
+      "displayName": "",
+      "id": "9c81c",
+      "name": "Shuriken_7.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e4d6acb7-ecc8-474b-9adb-38059d273cc7@b4384"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e4d6acb7-ecc8-474b-9adb-38059d273cc7@57978",
+        "e4d6acb7-ecc8-474b-9adb-38059d273cc7@351c5"
+      ],
+      "scenes": [
+        "e4d6acb7-ecc8-474b-9adb-38059d273cc7@9c81c"
+      ]
+    },
+    "dumpMaterials": false,
+    "materialDumpDir": "db://assets/Game/Bullet/M2/Materials_Shuriken_7",
+    "useVertexColors": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "collisionMatrix": {
+      "0": 0,
+      "1": 4,
+      "2": 2
+    },
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Bullet"
+      },
+      {
+        "index": 2,
+        "name": "Fish"
+      }
+    ]
+  },
+  "custom_joint_texture_layouts": []
+}

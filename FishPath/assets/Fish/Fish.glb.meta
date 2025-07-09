@@ -1,0 +1,187 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "936af": {
+      "importer": "gltf-mesh",
+      "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123@936af",
+      "displayName": "",
+      "id": "936af",
+      "name": "ClownFish.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 686
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df6d9": {
+      "importer": "gltf-animation",
+      "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123@df6d9",
+      "displayName": "",
+      "id": "df6d9",
+      "name": "Armature|Swim.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2916666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 6
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ef71": {
+      "importer": "gltf-material",
+      "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123@1ef71",
+      "displayName": "",
+      "id": "1ef71",
+      "name": "Outline.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4b39": {
+      "importer": "gltf-material",
+      "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123@f4b39",
+      "displayName": "",
+      "id": "f4b39",
+      "name": "Body.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c36ad": {
+      "importer": "gltf-material",
+      "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123@c36ad",
+      "displayName": "",
+      "id": "c36ad",
+      "name": "Stripes.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4e12": {
+      "importer": "gltf-scene",
+      "uuid": "f1137b3c-efec-4374-a6e6-1210a7059123@c4e12",
+      "displayName": "",
+      "id": "c4e12",
+      "name": "Fish.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Armature|Swim",
+        "duration": 1.2916666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Swim",
+            "from": 0,
+            "to": 1.2916666269302368,
+            "wrapMode": 2,
+            "previousId": "df6d9"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f1137b3c-efec-4374-a6e6-1210a7059123@936af"
+      ],
+      "skeletons": [
+        "f1137b3c-efec-4374-a6e6-1210a7059123@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "f1137b3c-efec-4374-a6e6-1210a7059123@1ef71",
+        "f1137b3c-efec-4374-a6e6-1210a7059123@f4b39",
+        "f1137b3c-efec-4374-a6e6-1210a7059123@c36ad"
+      ],
+      "scenes": [
+        "f1137b3c-efec-4374-a6e6-1210a7059123@c4e12"
+      ]
+    }
+  }
+}

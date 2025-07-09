@@ -1,0 +1,163 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1",
+  "files": [],
+  "subMetas": {
+    "33e3c": {
+      "importer": "gltf-mesh",
+      "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1@33e3c",
+      "displayName": "",
+      "id": "33e3c",
+      "name": "Turret_GunDouble_Base.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 884
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "52d84": {
+      "importer": "gltf-mesh",
+      "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1@52d84",
+      "displayName": "",
+      "id": "52d84",
+      "name": "Turret_GunDouble_Top.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 620
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f8aa": {
+      "importer": "gltf-material",
+      "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1@8f8aa",
+      "displayName": "",
+      "id": "8f8aa",
+      "name": "Black.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b30c9": {
+      "importer": "gltf-material",
+      "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1@b30c9",
+      "displayName": "",
+      "id": "b30c9",
+      "name": "Orange.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c310": {
+      "importer": "gltf-material",
+      "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1@9c310",
+      "displayName": "",
+      "id": "9c310",
+      "name": "LightGrey.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "862e8": {
+      "importer": "gltf-material",
+      "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1@862e8",
+      "displayName": "",
+      "id": "862e8",
+      "name": "Grey.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1960d": {
+      "importer": "gltf-scene",
+      "uuid": "469dc7dd-6476-47a7-bca7-5c3faa181ff1@1960d",
+      "displayName": "",
+      "id": "1960d",
+      "name": "Turret Gun.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "469dc7dd-6476-47a7-bca7-5c3faa181ff1@33e3c",
+        "469dc7dd-6476-47a7-bca7-5c3faa181ff1@52d84"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "469dc7dd-6476-47a7-bca7-5c3faa181ff1@8f8aa",
+        "469dc7dd-6476-47a7-bca7-5c3faa181ff1@b30c9",
+        "469dc7dd-6476-47a7-bca7-5c3faa181ff1@9c310",
+        "469dc7dd-6476-47a7-bca7-5c3faa181ff1@862e8"
+      ],
+      "scenes": [
+        "469dc7dd-6476-47a7-bca7-5c3faa181ff1@1960d"
+      ]
+    }
+  }
+}

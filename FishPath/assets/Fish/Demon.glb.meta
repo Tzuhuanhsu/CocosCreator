@@ -1,0 +1,544 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb",
+    "__original-animation-5.cconb",
+    "__original-animation-6.cconb",
+    "__original-animation-7.cconb"
+  ],
+  "subMetas": {
+    "16674": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@16674",
+      "displayName": "",
+      "id": "16674",
+      "name": "CharacterArmature|Fast_Flying.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8333333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 43
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "54715": {
+      "importer": "gltf-mesh",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@54715",
+      "displayName": "",
+      "id": "54715",
+      "name": "Demon_Flying.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 360
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e779b": {
+      "importer": "gltf-mesh",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@e779b",
+      "displayName": "",
+      "id": "e779b",
+      "name": "Demon_Flying.001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1072
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2851a": {
+      "importer": "gltf-mesh",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@2851a",
+      "displayName": "",
+      "id": "2851a",
+      "name": "Demon_Flying.002.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 3352
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02b1c": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@02b1c",
+      "displayName": "",
+      "id": "02b1c",
+      "name": "CharacterArmature|Death.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "66cb3": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@66cb3",
+      "displayName": "",
+      "id": "66cb3",
+      "name": "CharacterArmature|Flying_Idle.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d12a5": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@d12a5",
+      "displayName": "",
+      "id": "d12a5",
+      "name": "CharacterArmature|Headbutt.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8e14e": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@8e14e",
+      "displayName": "",
+      "id": "8e14e",
+      "name": "CharacterArmature|HitReact.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.4583333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e1c54": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@e1c54",
+      "displayName": "",
+      "id": "e1c54",
+      "name": "CharacterArmature|No.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "055a1": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@055a1",
+      "displayName": "",
+      "id": "055a1",
+      "name": "CharacterArmature|Punch.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f902f": {
+      "importer": "gltf-animation",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@f902f",
+      "displayName": "",
+      "id": "f902f",
+      "name": "CharacterArmature|Yes.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 43
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 43
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f8aa": {
+      "importer": "gltf-material",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@8f8aa",
+      "displayName": "",
+      "id": "8f8aa",
+      "name": "Black.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c166": {
+      "importer": "gltf-material",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@8c166",
+      "displayName": "",
+      "id": "8c166",
+      "name": "Eye_White.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7897": {
+      "importer": "gltf-material",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@d7897",
+      "displayName": "",
+      "id": "d7897",
+      "name": "Eye_Black.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "826b4": {
+      "importer": "gltf-material",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@826b4",
+      "displayName": "",
+      "id": "826b4",
+      "name": "Demon_Main.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8a99": {
+      "importer": "gltf-scene",
+      "uuid": "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@b8a99",
+      "displayName": "",
+      "id": "b8a99",
+      "name": "Demon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "CharacterArmature|Death",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Death",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2,
+            "previousId": "02b1c"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Fast_Flying",
+        "duration": 0.8333333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Fast_Flying",
+            "from": 0,
+            "to": 0.8333333134651184,
+            "wrapMode": 2,
+            "previousId": "16674"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Flying_Idle",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Flying_Idle",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2,
+            "previousId": "66cb3"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Headbutt",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Headbutt",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2,
+            "previousId": "d12a5"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|HitReact",
+        "duration": 0.4583333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|HitReact",
+            "from": 0,
+            "to": 0.4583333432674408,
+            "wrapMode": 2,
+            "previousId": "8e14e"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|No",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|No",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2,
+            "previousId": "e1c54"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Punch",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Punch",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2,
+            "previousId": "055a1"
+          }
+        ]
+      },
+      {
+        "name": "CharacterArmature|Yes",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "CharacterArmature|Yes",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2,
+            "previousId": "f902f"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@e779b",
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@2851a",
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@54715"
+      ],
+      "skeletons": [
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@30732",
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@f1394",
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@75ee4"
+      ],
+      "textures": [],
+      "materials": [
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@8f8aa",
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@8c166",
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@d7897",
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@826b4"
+      ],
+      "scenes": [
+        "67ac1089-9cc2-438b-8bf2-ae8e4deb507c@b8a99"
+      ]
+    }
+  }
+}

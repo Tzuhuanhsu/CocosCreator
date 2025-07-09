@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "ca3b6222-573e-4dad-908d-e360e10c9218",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "bundleFilterConfig": [
+      {
+        "range": "include",
+        "type": "url",
+        "patchOption": {
+          "patchType": "glob",
+          "value": "db://assets/Game/**/*"
+        },
+        "assets": [
+          ""
+        ]
+      },
+      {
+        "range": "include",
+        "type": "url",
+        "patchOption": {
+          "patchType": "glob",
+          "value": "db://assets/Game/ArtResources/Art/Symbol/Textures"
+        },
+        "assets": [
+          ""
+        ]
+      }
+    ]
+  }
+}
